@@ -1,0 +1,5 @@
+## Python virtual environments
+**/**/*.pyc
+**/.venv/
+**/.installed
+__pycache__
